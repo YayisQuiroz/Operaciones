@@ -1,0 +1,10 @@
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\bin\Debug\calculadoraApp.exe.config
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\bin\Debug\calculadoraApp.exe
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\bin\Debug\calculadoraApp.pdb
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.csproj.AssemblyReference.cache
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.Form1.resources
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.Properties.Resources.resources
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.csproj.GenerateResource.cache
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.exe
+C:\Users\MARIANA\source\repos\calculadoraApp\calculadoraApp\obj\Debug\calculadoraApp.pdb
